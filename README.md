@@ -1,2 +1,2 @@
-# usage-quest-releases
+# Usage Quest Release Page
 Usage Quest installer downloads
