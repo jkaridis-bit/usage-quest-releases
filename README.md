@@ -110,5 +110,3 @@ Every version has its own notes on the [Releases](https://github.com/jkaridis-bi
 ```text
   GAME OVER? NEVER. INSERT COIN TO CONTINUE
 ```
-
-<p align="center"><sub>A personal project. Not made by or affiliated with Anthropic.</sub></p>
